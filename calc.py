@@ -18,5 +18,4 @@ elif operation == "/":
 else:
     result = "Invalid operation."
 
-# Display the result
 print(f"{x} {operation} {y} = {result}")
